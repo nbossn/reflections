@@ -1,0 +1,20 @@
+lesson_1_reflections.txt
+Nick Boss
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Being able to see the old and new files side by side was effective, but for files with more code it was difficult to pinpoint exact locations of bugs. Using the cmd and the FC command helped to locate exactly what changes were made and helped narrow down the amount of changed code to find the bug
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+More convenient ways to see the whole history of a file in development would make it easier for me to be able to track my changes. If something goes wrong, a fix that might usually take hours to find could be easily solvable in minutes.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because programs will often require multiple files to run correctly, version control systems will allow for the saving of all the files in the repository.This makes it so that the files are all equally maintained from update to update.
+
+How can you use the commands git log and git diff to view the history of files?
+You can enter a repository of files by git clone and then use the git log command to track commits within the repository. In doing so you can determine which commits you want to find differences between with the git difference command and then as a result determine additions, subtractions and other key information between saves. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+To finally utilize GitHub and be able to find libraries and workframes that I can use
+
+
+C:\Program Files (x86)\Sublime Text 2\sublime_text.exe
